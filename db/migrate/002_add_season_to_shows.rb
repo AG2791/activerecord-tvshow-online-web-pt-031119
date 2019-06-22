@@ -1,7 +1,7 @@
 class CreateShow < ActiveRecord::Migration
   
   def change 
-    add_column 
+    add_column :season 
    end
   end
   
