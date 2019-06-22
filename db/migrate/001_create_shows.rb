@@ -1,1 +1,5 @@
-class CreateShow < ActiveRecord::
+class CreateShow < ActiveRecord::Migration
+  
+  
+  
+end
